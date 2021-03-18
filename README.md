@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**AhmedShela/AhmedShela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ahmad Louae Shela
+### Full Stack MERN Developer
 
-Here are some ideas to get you started:
+I am 25 years old, and I live in Amman.
+I studied bachelor of Computer Applications at Amity University and graduated as a full stack MERN developer from LTUC-Abdul Aziz Al Ghurair School of Advanced Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am working as a full time vb.net and web developer at Ideal Solutions
+I am also a Co-Founder of Edaraat intelligent soft team [Edarrat](www.edaraat.com)
+
+- 🔭 I’m currently working on Edaraat maintainance management system mobile application using react native
+- 🌱 I’m currently learning more about react native and my next app will be built using flutter
+- 💬 Ask me about VB.net MONGO DB ,NodeJs ,JavaScript, Oracle DB, SQL DB, mySQL, Realm DB , SQLite, ExpressJs, ReactJs ,React Native, Css and HTML
+- 📫 How to reach me: [Email](ahmedsh717@gmail.com), [LinkedIn](https://www.linkedin.com/in/ahmad-shela/)
+- ⚡ Fun fact: I a Social person and a Programmer ha ha ha
